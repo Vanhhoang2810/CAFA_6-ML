@@ -33,5 +33,11 @@ So sánh hiệu năng giữa phương pháp Baseline và phương pháp Đề xu
 | :--- | :--- | :--- |
 | **Phương pháp** | Linear Classification | **Homology Transfer** |
 | **Dữ liệu Train** | 20% (Downsampled) | **100% (Full Data)** |
-| **Rating nhận được** | 0.127 | **0.212** 🚀 |
+| **Rating nhận được** | 0.127 | **0.212** |
 | **Tốc độ** | Nhanh | Trung bình (tốn thời gian Inference) |
+
+## 👏 Lời cảm ơn (Acknowledgements)
+
+* **Baseline Notebook:** [CAFA - 6]
+* **Tác giả:** [Muskaan Aggarwal]
+* **Link tham khảo:** [(https://www.kaggle.com/code/muskaanaggarwal1/cafa-6)]
