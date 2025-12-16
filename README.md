@@ -36,7 +36,7 @@ So sánh hiệu năng giữa phương pháp Baseline và phương pháp Đề xu
 | **Rating nhận được** | 0.127 | **0.212** |
 | **Tốc độ** | Nhanh | Trung bình (tốn thời gian Inference) |
 
-## 👏 Lời cảm ơn (Acknowledgements)
+## Acknowledgements
 
 * **Baseline Notebook:** [CAFA - 6]
 * **Tác giả:** [Muskaan Aggarwal]
