@@ -4,9 +4,9 @@ Dự án tham gia thử thách CAFA 6 trên Kaggle, giải quyết bài toán d�
 
 ## 👤 Thành viên thực hiện
 
-| Họ và Tên | MSSV | Vai trò |
+| Họ và Tên | MSSV | Phần trăm thực hiện |
 | :--- | :--- | :--- |
-| **[Tên Của Bạn]** | [Mã Số SV] | Developer & Researcher |
+| Hoàng Việt Anh | 23020583 | Developer & Researcher |
 
 ## 🛠️ Thành phần đóng góp (Key Contributions)
 
@@ -33,12 +33,5 @@ So sánh hiệu năng giữa phương pháp Baseline và phương pháp Đề xu
 | :--- | :--- | :--- |
 | **Phương pháp** | Linear Classification | **Homology Transfer** |
 | **Dữ liệu Train** | 20% (Downsampled) | **100% (Full Data)** |
-| **F-score Dự kiến** | ~0.170 | **> 0.250** 🚀 |
+| **Rating nhận được** | 0.127 | **0.212** 🚀 |
 | **Tốc độ** | Nhanh | Trung bình (tốn thời gian Inference) |
-| **Rating** | ⭐⭐ | ⭐⭐⭐⭐⭐ |
-
-## 🚀 Cài đặt & Chạy thử
-
-Yêu cầu thư viện:
-```bash
-pip install pandas numpy scikit-learn scipy biopython
