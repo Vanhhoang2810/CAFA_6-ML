@@ -5,7 +5,7 @@ Dự án tham gia thử thách CAFA 6 trên Kaggle, giải quyết bài toán d�
 ## 👤 Thành viên thực hiện
 
 | Họ và Tên | MSSV |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Hoàng Việt Anh | 23020583 |
 
 ## 🛠️ Thành phần đóng góp (Key Contributions)
